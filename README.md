@@ -1,4 +1,5 @@
-<h1 align="center">HTB CTF</h1>
+<h1 align="center">HTB-InviteCode
+</h1>
 <h1 align="center">
        hackthebox.eu invitecode Generator
 </h1>
