@@ -15,7 +15,7 @@ why my script is big .You can help me to modify my script.
 
 <p align="center">
 <img
-src="https://github.com/larrylinus/HTB-InviteCode/blob/master/Logo.jpg"/>
+src="https://github.com/larrylinus/HTB-InviteCode/blob/master/Logo.png"/>
 </p>
 
 <br/><br/><br/>
