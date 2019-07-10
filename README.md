@@ -5,13 +5,12 @@
 </h1>
 
 
-### What is HTBIG ?
+### What is HTB-InviteCode ?
 HTB is a invite code generator.If you want to start solving
 CTF challages (hackthebox.eu) it is a level 0 challange
 for you  because this site requre an invite code for
 registration.Please at first try to solve  it manually
-then you can run my script.I am not so good at regex that's
-why my script is big .You can help me to modify my script.
+then you can run my script.
 <br/><br/><br/>
 
 <p align="center">
